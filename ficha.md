@@ -1,4 +1,4 @@
-# <<Markdown😁>>
+# **RB22🏎️🏎️🏎️**
 
 ## 👤 Presentación
 Hola, soy **<<Miguel Motta>>** y esta es mi primera ficha en Markdown.
@@ -42,4 +42,3 @@ print("Hola Markdown")
 ![RB22](image.png)
 
 
-🏎️🏎️🏎️

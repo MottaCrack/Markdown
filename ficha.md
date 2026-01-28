@@ -36,7 +36,7 @@ print("Hola Markdown")
 
 **A continuacion hay un link a un video del rb22:**
 
-<a href=https://youtu.be/Ml1Bfm6xEEU?si=BNjimEGjDlJcajXn target=_blank>YUTUB</a>
+<a href=https://youtu.be/Ml1Bfm6xEEU?si=BNjimEGjDlJcajXn
 
 
 ![RB22](image.png)

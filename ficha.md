@@ -48,3 +48,18 @@ El RB22 es el coche de Fórmula 1 diseñado por Oracle Red Bull Racing para comp
 Especificaciones: El chasis del RB22 es más estrecho, corto y ligero que su predecesor (el RB19) e incorpora nuevas características aerodinámicas activas.
 Unidad de Potencia: Estará propulsado por un motor desarrollado internamente por Red Bull Powertrains en asociación con Ford Racing, donde la mitad de la potencia provendrá de energía eléctrica.
 Innovación: Cuenta con conceptos aerodinámicos innovadores, incluyendo un diseño de sidepod único y una suspensión pushrod en la parte delantera y trasera, un cambio de filosofía para el equipo.
+
+###### Código en bloque (Python)
+```python
+def saludar(nombre):
+    return f"Hola, {nombre}!"
+
+print(saludar("mundo"))
+
+###### 📌 Tabla rápida
+
+| Tema | ¿Qué aprendí? |
+|------|----------------|
+| Títulos | <<...>> |
+| Links | <<...>> |
+| Imágenes | <<...>> |
